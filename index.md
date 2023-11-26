@@ -1,4 +1,4 @@
-# MA5 assignemn Jekyll Website
+# MA5 assignment
 
 Grace (pklam@ucsd.edu)
 
